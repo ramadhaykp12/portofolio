@@ -34,8 +34,8 @@
 
 
 ## Training & Certifications
-**Data Analytics with Python @ FreeCodeCamp
-**Machine Learning with Python @ Cognitive Class
-**Object Localization with TensorFlow @ Coursera
+**Data Analytics with Python @ FreeCodeCamp**
+**Machine Learning with Python @ Cognitive Class**
+**Object Localization with TensorFlow @ Coursera**
 
 
