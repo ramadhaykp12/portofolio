@@ -28,10 +28,14 @@
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 
-
 ### Body Mass Index (BMI) Prediction Web App using Support Vector Machine
 [Project Repository](https://github.com/ramadhaykp12/BMI-Predictor-Web)
 
 
+
+## Training & Certifications
+### Data Analytics with Python @ FreeCodeCamp
+### Machine Learning with Python @ Cognitive Class
+### Object Localization with TensorFlow @ Coursera
 
 
